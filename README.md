@@ -55,12 +55,12 @@ This project analyzes sales performance by designing a PostgreSQL database, exec
 ## 🚀 Future Improvements
 - Develop an interactive dashboard using **Power BI**  
 - Incorporate larger and real-world datasets  
-- Perform advanced analytics (trend analysis, forecasting)  
+- Perform advanced analytics (trend analysis, forecasting)
+- Implement forecasting (time series analysis)
 
 ---
-Implement forecasting (time series analysis)
 
-🙌 Connect with Me
 
+## 🙌 Connect with Me
 LinkedIn: https://www.linkedin.com/in/christian-olivarez-8746bb28b/
 Portfolio: christian-olivarez-portfolio.onrender.com
